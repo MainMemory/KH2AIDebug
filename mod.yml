@@ -1,0 +1,7 @@
+title: KH2 AI Debugger
+description: Prints debug info from AI scripts.
+assets:
+- name: dll/KH2AIDebug.dll
+  method: copy
+  source:
+  - name: KH2AIDebug.dll
